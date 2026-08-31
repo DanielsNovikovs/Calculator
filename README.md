@@ -1,5 +1,5 @@
 
-Java CLI Calculator (Komandrindas kalkulators)
+Java CLI Calculator 
 
 Tehnoloģijas: Java 17, Git, GitHub Codespaces, OOP, CLI
 
@@ -62,3 +62,4 @@ Enter choice (0-6): 1
 Enter first number: 12.5
 Enter second number: 7.5
 Result: 20.0000
+    
