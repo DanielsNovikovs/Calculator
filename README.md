@@ -61,4 +61,4 @@ Select Operation:
 Enter choice (0-6): 1
 Enter first number: 12.5
 Enter second number: 7.5
->>> Result: 20.0000
+Result: 20.0000
